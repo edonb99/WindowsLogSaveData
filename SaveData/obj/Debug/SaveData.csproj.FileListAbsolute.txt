@@ -1,0 +1,31 @@
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.ProjectInstaller.resources
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\bin\Debug\SaveData.exe.config
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\bin\Debug\SaveData.exe
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\bin\Debug\SaveData.pdb
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.ProjectInstaller.resources
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csproj.CopyComplete
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.exe
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.pdb
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\bin\Debug\SaveData.exe.config
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\bin\Debug\SaveData.exe
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\bin\Debug\SaveData.pdb
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\bin\Debug\WcfServiceLibrary.dll
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.csproj.AssemblyReference.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.ProjectInstaller.resources
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.csproj.GenerateResource.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.csproj.CoreCompileInputs.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.csproj.CopyComplete
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.exe
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\SaveData\obj\Debug\SaveData.pdb

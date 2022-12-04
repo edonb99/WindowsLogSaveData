@@ -1,0 +1,11 @@
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\bin\Debug\OurWinForm.exe.config
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\bin\Debug\OurWinForm.exe
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\bin\Debug\OurWinForm.pdb
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.csproj.AssemblyReference.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.Form1.resources
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.Properties.Resources.resources
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.csproj.GenerateResource.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.exe
+C:\Users\ebuda\OneDrive\Desktop\SaveDataWindowsLog-main\OurWinForm\obj\Debug\OurWinForm.pdb
